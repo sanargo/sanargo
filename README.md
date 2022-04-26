@@ -1,6 +1,6 @@
 # 👋 Hi there, my name is Santiago!
 - 👀 I’m interested in **Data Structures** and Logical Thinking. I have a great interest in **Artificial Intelligence** and in different aspects of **Data Science.**
-- 🌱 I’m currently learning Web Development, training me as a **Front-end Developer**.
+- 🌱 I’m currently learning Web Development, studying as a **Front-end Developer**.
 - 🌟 My goal is to learn different approaches to programming. That's why, throughout my study I have learned the basics of programming through **Python** and **JavaScript** (the latter being the language with the greatest focus)
 ## 💞️ List of topics to learn:
   - Fullstack Development with JavaScript.
