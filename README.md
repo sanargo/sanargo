@@ -12,7 +12,7 @@
   - Cibersecurity
   - Data Science
 ### 📫 How to reach me: <sanargo97@gmail.com>
-### 👉 Linkedin: [sanargo](https://www.linkedin.com/in/santiago-arias-g%C3%B3mez-590abb238/)
+### 👉 Linkedin: [sanargo](https://www.linkedin.com/in/santiago-arias-590abb238/)
 
 <!---
 sanargo/sanargo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
