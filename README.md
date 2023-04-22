@@ -1,11 +1,16 @@
 # 👋 Hi there, my name is Santiago!
-- 👀 I’m interested in **Data Structures** and Logical Thinking. I have a great interest in **Artificial Intelligence** and in different aspects of **Data Science.**
-- 🌱 I’m currently learning Web Development at **Platzi** and I'm studying English at the **Colombo Americano**.
+- 👀 I’m interested in **Data Structures** and **Logical Thinking**. I have a great interest in **Artificial Intelligence** and in different aspects of **Data Science.**
+- 🌱 I’m currently learning Web Development at **Platzi** and **Scrimba**.
 - 🌟 My goal is to learn different approaches to programming. That's why, throughout my study I have learned the basics of programming through **Python** and **JavaScript**. However, I have knowledge in:
   - HTML5
   - CSS3
   - JavaScript
-  - Python
+  - React
+- 🧮 In addition, I did the Data Analyst course with Google. There I learned:
+  - SQL
+  - Sreadsheets
+  - R
+  - Tableau  
 ## 💞️ List of topics to learn:
   - Fullstack Development with JavaScript.
   - Back-end with Python.
